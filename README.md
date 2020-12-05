@@ -1,4 +1,6 @@
-# RFClassifiers
+# RFClassifiers  
+These are the scripts for the data processing, training of several hyperparameters, data visualization, classification outputs, feature importance heatmaps, etc.  
 
- Estos scripts toman los vuelos, arman las ventanas y llaman a la funcion de la biblioteca sklearn
- https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+The documentation for the training part can be found in the following link:  
+
+  https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
